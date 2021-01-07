@@ -1,2 +1,4 @@
 #######################################################
+Server = http://dark.seedhost.eu/pheonix/Repo/$repo/$arch
 Server = https://bradheff.github.io/$repo/$arch
+Server = https://bradheff83.gitlab.io/$repo/$arch
